@@ -1,2 +1,2 @@
 #!/bin/bash
-rm ./ -iname *.js
+find . -type f -print *.jc -delete
